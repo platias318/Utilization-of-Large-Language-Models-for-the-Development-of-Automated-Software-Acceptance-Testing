@@ -1,3 +1,5 @@
+[Link of the final pdf thesis in Greek](https://github.com/platias318/Utilization-of-Large-Language-Models-for-the-Development-of-Automated-Software-Acceptance-Testing/blob/main/src/site/chats/Bachelors'%20thesis.pdf) / [Link of the final pdf thesis in English](https://github.com/platias318/Utilization-of-Large-Language-Models-for-the-Development-of-Automated-Software-Acceptance-Testing/blob/main/src/site/chats/Bachelors'%20thesis%20English%20translated.pdf)
+
 This repository explores the integration of large language models (LLMs) within the framework of Behavior-Driven Development (BDD). Large language models, such as GPT-3.5, GPT-4, GPT-4o, and GitHub Copilot, are advanced artificial intelligence tools capable of understanding and generating human-like text. These models significantly impact code automation and enhance the overall quality of software development.
 
 In this thesis we make use of a simple library system application in Java, created by my supervising teacher, Mr. Diamantidis, and can be found on the [following link](https://github.com/diamantidakos/Library)
@@ -12,7 +14,4 @@ The findings indicate that GPT-4o stands out in producing Step Definitions and c
 
 Overall, this project demonstrates the potential of LLMs to enhance BDD practices and provides valuable insights for future research. This project is part of my Bachelor Thesis for completing my studies at AUEB, contributing to the advancement of AI-driven software development methodologies.
 
-[Link of the final pdf thesis in Greek](https://github.com/platias318/Utilization-of-Large-Language-Models-for-the-Development-of-Automated-Software-Acceptance-Testing/blob/main/src/site/chats/Bachelors'%20thesis.pdf)
-
-[Link of the final pdf thesis in English](https://github.com/platias318/Utilization-of-Large-Language-Models-for-the-Development-of-Automated-Software-Acceptance-Testing/blob/main/src/site/chats/Bachelors'%20thesis%20English%20translated.pdf)
 In the provided link above, there are also links with every chat I created with the AI systems
